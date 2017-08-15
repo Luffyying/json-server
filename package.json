@@ -1,0 +1,19 @@
+{
+  "name": "json-server-vue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luffyying/json-server.git"
+  },
+  "author": "luffy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Luffyying/json-server/issues"
+  },
+  "homepage": "https://github.com/Luffyying/json-server#readme"
+}
